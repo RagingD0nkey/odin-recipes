@@ -1,1 +1,13 @@
 # odin-recipes
+
+In this [project](https://www.theodinproject.com/lessons/foundations-recipes) I will create a simple website showing a couple of recipes. 
+
+## Goal
+My main objective is to implement a simple design, allowing the user to go from one recipe to the other via a main index page.
+However, I will present teh website as a restaurant menu, linking all menu items to their own recipe. Even the cocktail !
+
+Recipes will be linked to their original [page](https://www.allrecipes.com/) every time.
+
+## Difficulties
+
+## Improvement
