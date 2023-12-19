@@ -9,5 +9,7 @@ However, I will present the website as a restaurant menu, linking all menu items
 Recipes will be linked to their original [page](https://www.allrecipes.com/) every time.
 
 ## Difficulties
-1-Trying to create a navigation menu at the bottom of the page. Had to use non breaking space to mimic tab space
+1. Trying to create a navigation menu at the bottom of the page. Had to use non breaking space to mimic tab space `nbsp;`
+
 ## Improvement
+1. I would have liked to add a per/person ingredient list. If 2 peoples, halving ingredient, if 8, doubling it.
