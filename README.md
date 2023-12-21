@@ -23,6 +23,7 @@ Recipes will be linked to their original [page](https://www.allrecipes.com/) eve
 </ul>
 }
 ```
+3. Setting up second laptop with Git sync
 
 ## Improvement
 1. I would have liked to add a per/person ingredient list. If 2 peoples, halving ingredient, if 8, doubling it.
