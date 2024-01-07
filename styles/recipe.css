@@ -10,6 +10,7 @@ body {
     max-width: 600px;
     margin: 0 auto;
     border: 1px black solid;
+    border-radius: 8px;
     padding: 12px;
     background-color: rgb(248, 243, 228);
 }
@@ -22,8 +23,37 @@ body {
     margin: 0 auto;
 }
 
+.recipe-card h1,
+.recipe-card h2 {
+    text-align: center;
+    margin: 5px;
+}
+
+.recipe-card ul ul{
+    list-style-type: circle;
+}
+
+.recipe-card ul{
+    list-style-type: square;
+}
+
+.recipe-card ol{
+    list-style-type: upper-roman;
+}
+.recipe-card ol li {
+    padding: 2px;
+}
+
+.recipe-card ul li {
+    padding: 2px;
+}
+
+.recipe-card ul li ul li{
+    padding: 1px;
+}
+
 .nav-container{
-    display: flex;
+    display: block flex;
     justify-content: space-around;
 }
 
