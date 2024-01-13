@@ -9,7 +9,7 @@ However, I will present the website as a restaurant menu, linking all menu items
 Recipes will be linked to their original [page](https://www.allrecipes.com/) every time.
 
 ## Difficulties
-1. Trying to create a navigation menu at the bottom of the page. Had to use non breaking space to mimic tab space `nbsp;`
+1. ~~Trying to create a navigation menu at the bottom of the page. Had to use non breaking space to mimic tab space `nbsp;`~~ When adding CSS I was able to use the flex properties, with `justify-content: space-around;`
 2. Getting the following warning in HTML validation `Element ul not allowed as child of element ul in this context`. However, if I include the `<ul>` inside the `<li>` element, it adds a bullet point. Not sure how to go from there. **SOLVED!** I open the 1st level `<li>`, then `<ul>`,then all the other bullet points, and then close the 1st `<li>` like so :
 ```
 {
